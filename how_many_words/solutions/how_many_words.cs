@@ -1,14 +1,12 @@
 using System;
 class MainClass {
-  public static void Main (string[] args) {
+  static void Main () {
     String word = "The dog jumps over the cat.";
     
     int the_first_answer = count_words(word);
     int the_second_answer = count_word(word);
     Console.WriteLine(the_first_answer);
     Console.WriteLine(the_second_answer);
-    
-    //Console.WriteLine(the_answer);
   }
   
   public static int count_words(string phrase){
