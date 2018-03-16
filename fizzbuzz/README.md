@@ -8,7 +8,7 @@ If the number is divisible by 5 you print the word "buzz".
 
 If the number is divisible by 15 you print the word "fizzbuzz".
 
-If the number is not divisible by 5, or 3 you print the owrd "fizzbuzz".</p>
+If the number is not divisible by 5, or 3 you print the integer as a string.</p>
 
 <h3>Example:</h3>
 
